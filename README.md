@@ -1,44 +1,39 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0025449  |  Natan Tavares Santana |
+| 20/0036351  |  Clara Marcelino Ribeiro de Sousa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de exercicios de Juízes online que envolvam Programação dinâmica. Cada pasta dentro deste repositório tera a solução para um dos exercícios.
+
+Exercícios Resolvidos:
+
+|Nome | Dificuldade | Plataforma |
+| -- | -- | -- |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  |  Hard | Leetcode |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### 1235. Maximum Profit in Job Scheduling
+
+![Exercício 1](image.png)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+É necessário ter Python3 instalado no computador.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Entre dentro de uma pasta de exercício e rode o comando:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```
+python3 main.py
+```
+
 
 
 
