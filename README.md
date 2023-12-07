@@ -14,12 +14,18 @@ Exercícios Resolvidos:
 |Nome | Dificuldade | Plataforma |
 | -- | -- | -- |
 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  |  Hard | Leetcode |
+| [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)  |  Medium | Leetcode |
 
 ## Screenshots
 
 ### 1235. Maximum Profit in Job Scheduling
 
 ![Exercício 1](image.png)
+
+### 152. Maximum Product Subarray
+
+![Exercício 2 descrição](image-1.png)
+![Exercício 2 resolução](image-2.png)
 
 
 ## Instalação 
